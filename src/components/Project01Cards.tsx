@@ -5,6 +5,7 @@ import ElevatedCards from "./Project01Components/ElevatedCards";
 import FancyCard from "./Project01Components/FancyCard";
 import ActionCard from "./Project01Components/ActionCard";
 import ContactList from "./Project01Components/ContactList";
+import MyntraCard from "./Project01Components/MyntraCard";
 
 const Project01Cards = () => {
 
@@ -16,6 +17,7 @@ const Project01Cards = () => {
                 <FancyCard />
                 <ContactList />
                 <ActionCard/>
+                <MyntraCard/>
             </ScrollView>
         </View>
     )
